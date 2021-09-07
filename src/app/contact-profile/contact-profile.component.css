@@ -1,0 +1,17 @@
+.img-thumbnail
+{
+    border-radius: 200px;
+    margin: auto;
+    display: block;
+    height: 300px;
+}
+
+.card
+{
+ 
+    border-radius: 70px;
+    padding: 20px;
+    margin: auto;
+    display: block;
+    border: 2px solid rgb(99, 40, 22);
+}

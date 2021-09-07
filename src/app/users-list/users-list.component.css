@@ -1,0 +1,15 @@
+.card
+{
+    padding: 5px;
+    border: 2px solid rgb(181, 184, 187);
+    margin-bottom: 20px;
+    border-radius: 70px;
+        
+}
+.img-thumbnail
+{
+    border-radius: 300px;
+    margin: auto;
+    display: block;
+    height: 350px;
+}

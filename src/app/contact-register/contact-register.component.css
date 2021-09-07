@@ -1,0 +1,32 @@
+h4
+{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+button
+{
+    color: rgb(226, 234, 243);
+    border-radius: 15px;
+    background-color: rgb(175, 31, 31);
+}
+button:hover
+{
+    color: rgb(240, 244, 250);
+    background-color: rgb(139, 14, 14);
+}
+input
+{
+    border-radius: 20px;
+}
+.container
+{
+    width: 30%;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid rgb(8, 8, 39);
+    border-radius: 40px;
+    background-color: rgb(29, 96, 128);
+    color: rgb(216, 224, 221);
+}

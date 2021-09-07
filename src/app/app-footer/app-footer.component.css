@@ -1,0 +1,14 @@
+footer
+{
+    margin-top: 20px;
+    position: fixed;
+  bottom: 0;
+  left: 0;
+  /* (A2) DIMENSIONS */
+  width: 100%;
+  height: 45px;
+  /* (A3) CENTER TEXT */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
